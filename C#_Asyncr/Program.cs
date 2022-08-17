@@ -28,7 +28,6 @@ async Task<int> Calculo1()
     return 23;
 }
 
-// simulación de ejecución si Asyn()
 async Task<string> EjecucionSinAsyn()
 {
     Console.WriteLine($"Ejecutando sin Async");
@@ -57,5 +56,6 @@ async Task<string> EjecucionConAsyn()
 
 
 await Task.WhenAll(EjecucionConAsyn(), EjecucionSinAsyn());
+
 
 
