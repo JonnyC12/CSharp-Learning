@@ -23,6 +23,7 @@ namespace snake
         }
         public void DrawSnake()
         {
+
             foreach (var pos in Tail)
             {
                 Console.ForegroundColor = ConsoleColor.Green;

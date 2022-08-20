@@ -1,5 +1,5 @@
 ﻿String STOPKEY = "NetMentor";
-String nombre = "";
+String? nombre = "";
 
 do
 {

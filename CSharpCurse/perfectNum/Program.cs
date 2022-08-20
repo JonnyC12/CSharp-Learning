@@ -18,7 +18,7 @@ List<int> dividers(int numero)
     return divisors;
 }
 Console.WriteLine("Introduce n num to find all perfect numero 1 to n");
-String numero = Console.ReadLine();
+String? numero = Console.ReadLine();
 
 List<List<int>> numPerfectList = new List<List<int>>();
 
