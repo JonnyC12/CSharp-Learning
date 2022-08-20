@@ -1,0 +1,15 @@
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\simpleLog\bin\Debug\net6.0\simpleLog.exe
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\simpleLog\bin\Debug\net6.0\simpleLog.deps.json
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\simpleLog\bin\Debug\net6.0\simpleLog.runtimeconfig.json
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\simpleLog\bin\Debug\net6.0\simpleLog.dll
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\simpleLog\bin\Debug\net6.0\simpleLog.pdb
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\simpleLog\obj\Debug\net6.0\simpleLog.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\simpleLog\obj\Debug\net6.0\simpleLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\simpleLog\obj\Debug\net6.0\simpleLog.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\simpleLog\obj\Debug\net6.0\simpleLog.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\simpleLog\obj\Debug\net6.0\simpleLog.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\simpleLog\obj\Debug\net6.0\simpleLog.dll
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\simpleLog\obj\Debug\net6.0\refint\simpleLog.dll
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\simpleLog\obj\Debug\net6.0\simpleLog.pdb
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\simpleLog\obj\Debug\net6.0\simpleLog.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\simpleLog\obj\Debug\net6.0\ref\simpleLog.dll
