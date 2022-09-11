@@ -1,0 +1,4 @@
+interface IParaEmpleados
+{
+    double GetSueldo();
+}

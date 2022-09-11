@@ -1,0 +1,15 @@
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\absClass\bin\Debug\net6.0\absClass.exe
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\absClass\bin\Debug\net6.0\absClass.deps.json
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\absClass\bin\Debug\net6.0\absClass.runtimeconfig.json
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\absClass\bin\Debug\net6.0\absClass.dll
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\absClass\bin\Debug\net6.0\absClass.pdb
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\absClass\obj\Debug\net6.0\absClass.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\absClass\obj\Debug\net6.0\absClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\absClass\obj\Debug\net6.0\absClass.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\absClass\obj\Debug\net6.0\absClass.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\absClass\obj\Debug\net6.0\absClass.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\absClass\obj\Debug\net6.0\absClass.dll
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\absClass\obj\Debug\net6.0\refint\absClass.dll
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\absClass\obj\Debug\net6.0\absClass.pdb
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\absClass\obj\Debug\net6.0\absClass.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Desktop\C#-.Net\Csharp\CSharpCurse\absClass\obj\Debug\net6.0\ref\absClass.dll
